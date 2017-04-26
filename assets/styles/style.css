@@ -1,0 +1,16 @@
+.flower {
+    background-image: url("./../images/css3-multi-bacground.jpg");
+}
+
+.col-sm-8{
+	margin-left: 20%;
+	background-color: pink;
+}
+
+ h1 {
+ 	text-align: center;
+ }
+
+ #btnStart{
+ 	text-align: center;
+ }
